@@ -1,0 +1,9 @@
+---
+title: "Setting the scene: open initiatives in research and scholarship"
+shortname: "L1"
+---
+
+## Laura Fortunato
+
+I will briefly outline some issues that arise in discussions of open initiatives in the context of research and scholarship, including for example definitions of reproducibility and how they apply across fields. I will then introduce Reproducible Research Oxford and the UK Reproducibility Network as examples of researcher-led projects that aim to contribute practical solutions.
+

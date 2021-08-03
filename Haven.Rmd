@@ -1,0 +1,8 @@
+---
+title: "Research Ethics & Research Integrity: two duties for researchers"
+shortname: "L2"
+---
+
+## Tamarinde Haven
+
+What is the influence of the academic research climate on research integrity? How is this research climate perceived across academic ranks and disciplinary fields? Is it a climate wherein researchers perceive high publication pressure? Do publication pressure and the research climate play a role in explaining research misbehavior? And what is a responsible research climate? In this talk, I will review how cases of research misconduct fuelled a new field that investigates how common research misbehaviors are, and that tries to identify the factors that might spark research misbehavior. Initially, studies in this area mainly focused on research misconduct, in which there is generally an intent to deceive (fabrication, falsification, plagiarism). However, over time the focus broadened to the more frequent questionable research practices (QRPs). Accumulating empirical evidence has indicated QRPs are more prevalent than formal research misconduct. I then zoom in on the factors that have been associated with research integrity. In particular, I explain the role that the research climate plays in fostering or undermining research integrity and conclude with how our focus group of participants would shape a responsible research climate.

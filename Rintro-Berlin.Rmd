@@ -1,0 +1,8 @@
+---
+title: "R for beginners - Berlin"
+shortname: "WS1"
+---
+
+## Ulf Toelch
+
+In this workshop I will cover the basics of R and also cover a popular IDE RStudio. This workshop will help you get started and I will show you some learning resources and the wonders of Markdown.

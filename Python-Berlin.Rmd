@@ -1,0 +1,10 @@
+---
+title: "Python for Beginners - Berlin"
+shortname: "WS3"
+---
+
+## Dirk Ostwald
+
+Computer code is often generated during the research process, from explaining concepts, to running machinery and generating data, to analysis. Open scholarship involves valuing and sharing these research outputs in the same fashion as data or hypotheses, to obtain their full value. Python is a popular open-source language, with a wide range of uses. It benefits from being easily readable by humans and freely available across many devices.  For these reasons it is a good tool for research and extremely useful for documenting data analyses in a reproducible manner.
+
+In this workshop, I will introduce Python in an hands-on format with the overarching goal of running and documenting a basic statistical analysis (ANOVA) on an experimental data set. No previous programming experience is required, but an open mindedness for acquiring new skills and an interest in data analysis are helpful.

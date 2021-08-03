@@ -1,0 +1,8 @@
+---
+title: "What’s next? Facilitated group discussion"
+shortname: "WS15"
+---
+
+## Verena Heise, Olly Robertson, Tsvetomira Dumbalska, Cassandra Gould van Praag, James Smith, Charles Rahal, Malika Ihle, Ulf Toelch
+
+In this interactive workshop we will explore how early career researchers can get involved not only in making their own research open and reproducible but also in spreading the message. We will give an overview of community building and training activities run by ECRs for ECRs that you can get involved with and will share some experiences. We will also discuss how you plan to integrate parts of this course into your research and the strategies you can put in place to best support yourself in reaching your goals.

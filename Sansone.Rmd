@@ -1,0 +1,8 @@
+---
+title: "FAIR data for humans and machines"
+shortname: "L5"
+---
+
+## Susanna Assunta Sansone
+
+The FAIR Principles (https://doi.org/10.1038/sdata.2016.18) have propelled the global debate in all disciplines about better Research Data Management (RDM), transparent and reproducible data worldwide, and in all disciplines. FAIR has de facto become a global norm for good RDM, a prerequisite for data science, since their endorsement by global and intergovernmental leaders. Funding bodies are consolidating FAIR into their funding agreements; publishers have united behind FAIR as a way to remain at the forefront of open research; and in the private sector FAIR is adopted and enshrined in policy in major biopharmas, libraries, and unions. FAIR is changing the culture of data science, but work is needed to turn the principles into reality. As an author of the FAIR Principles, and lead of an Oxford R&D group that works on improving data reuse and publication (https://datareadiness.eng.ox.ac.uk), I will use the work of several FAIR-enabling projects and activities we are part of, including Oxford-led FAIR Cookbook (https://fairplus.github.io/the-fair-cookbook/content/home.html) and FAIRsharing (https://fairsharing.org), as exemplars to illustrate challenges and progresses.

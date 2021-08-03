@@ -1,0 +1,13 @@
+---
+title: "What to expect from replications"
+shortname: "L9"
+---
+
+## Ulf Toelch
+
+There is a growing meta research literature indicating that a surprising number of study results are not reproducible. In this lecture, I will highlight causes of non-reproducible results.
+
+Specifically, I will discuss why non-reproducible results are actually to be expected. Drawing from psychology and biomedicine examples I will lay out when and how to replicate towards efficient and reliable research.
+
+
+

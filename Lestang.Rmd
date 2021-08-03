@@ -1,0 +1,8 @@
+---
+title: "Simple techniques for writing readable code"
+shortname: "L7"
+---
+
+## Thibault Lestang
+
+In software engineering, there is a common saying that "code is read by humans more than it is executed by computers''. Whether this is exactly true or not, one message remains: readability counts.  This is even more so in research, as code is often the only available detailed description of the computational experiments of data analyses underlying your research. In this lecture we cover simple techniques to make your codes easier to read - by yourself, your colleagues or your peers reproducing your research. We start by introducing the concept of a "code smell", a way to identify situations where code is difficult to understand and modify. Walking through a few examples, we describe well-defined remedies you can start applying right-away, such as simplifying complex conditionals or splitting long functions.

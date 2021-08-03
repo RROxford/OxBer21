@@ -1,0 +1,11 @@
+---
+title: "Python for Beginners - Oxford"
+shortname: "WS4"
+---
+
+## Thibault Lestang, Laurence Brown
+
+Computer code is often generated during the research process, from explaining concepts, to running machinery and generating data, to analysis. Open scholarship involves valuing and sharing these research outputs in the same fashion as data or hypotheses, to obtain their full value. Python is a popular open-source language, with a wide range of uses. It benefits from being easily readable by humans and freely available across many devices.  For these reasons it is a good tool for research and learning. 
+
+In the workshop we will cover installing and starting Python, along with basic variables and types of data. We will also introduce basic functions and how to expand your capabilities by importing other libraries. We will allow time for discussion of further learning resources and examples.
+

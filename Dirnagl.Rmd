@@ -1,0 +1,10 @@
+---
+title: "Reducing waste and increasing value in experimental biomedicine"
+shortname: "L4"
+---
+
+## Uli Dirnagl
+
+Recent advances in biomedical research provide innumerable opportunities to develop novel preventive and therapeutic strategies. However, only a small fraction of biomedical discoveries are successfully translated into clinical applications. Potential ‘breakthrough’ therapies, which are  spectacularly successful in animal models of disease, often fail in clinical trials. This translational bottleneck imposes burdens on research and healthcare systems, as well as patients who participate in trials of novel strategies. The high attrition rate of preclinical to clinical development may directly relate to concerns about the reliability and reproducibility of biomedical research. Apparently there are substantial weaknesses in planning, conducting, analysing, and reporting this research. Low internal and external validity as well as low statistical power in particular of preclinical research appears to produce a very high rate of false positives, and inflates effect sizes unrealistically. Not surprisingly then, the majority of scientists believe that we are in the midst of a ‘reproducibility crisis’. The immense proliferation in research outputs, combined with increasing methodological complexity and the size of data sets, greatly complicates the sharing, evaluation, and synthesis of high quality evidence. At the same time, nonpublication of results leads to duplicative research and deprives medical decision-makers of the totality of evidence. But how can we overcome this crisis?
+
+In my presentation I will present a set of behaviours, activities and research practices, some of which may be relevant to your own work and which present prime targets for improvement

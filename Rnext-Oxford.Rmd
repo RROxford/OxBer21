@@ -1,0 +1,11 @@
+---
+title: "Reproducible workflows in R - Oxford"
+shortname: "WS6"
+---
+
+## Adam Kenny, Matt Jaquiery, Olly Robertson
+
+This workshop will be a continuation of the previous workshop, delivered by the same team. We will continue to use [Software Carpentry material](http://swcarpentry.github.io/r-novice-inflammation/) to introduce you to the basic syntax of R, within the RStudio interface, with the overall goal of producing a reproducible workflow: integrating data input and data analysis in a clear manner that allows collaborators, other researchers, and future you to (re)produce a project
+
+
+

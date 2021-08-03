@@ -1,0 +1,12 @@
+---
+title: "Global data accessibility"
+shortname: "L12"
+---
+
+## Louise Bezuidenhout
+
+The Open Research landscape is continually evolving, and we are seeing the rapid addition of tools that facilitate open research, infrastructures that support it and changing practices and priorities that foreground openness. These advances are enabling researchers to have unprecedented access to research data, and to share, collaborate and re-use research outputs in novel ways. Nonetheless, Open Research remains a “work in progress” and it is important that we continually scrutinize the digital structures and practices that are emerging to ensure that they do not perpetuate marginalizations and biases within the international research community. This talk will focus on current limits of openness experienced by researchers outside of the Global North, highlighting the challenges presented by poor data infrastructures, resource-poor research environments, national/international political influence (such as geoblocking, national internet shut-downs and citizen tracking) to Open Research practices. It will also draw on the six years of experience from teaching low/middle-income country researchers on  the CODATA/RDA Schools for Research Data Science to suggest ways in which inclusion and equity can be fostered in Open Research practices.
+
+
+
+

@@ -1,0 +1,8 @@
+---
+title: "Data visualization: How to identify and fix common problems"
+shortname: "WS19"
+---
+
+## Tracey Weissgerber
+
+Topics may include general techniques for making your figures accessible to a broad audience, learning to identify and fix common visualization errors in small sample size studies (bar graphs of continuous data, creating flow charts to track inclusion/exclusion, color blind accessible visualizations, using semi-transparency) and creating effective image-based figures (microscopy, electron microscopy, photographs, etc.). We will not address visualizations for big data, so attendees looking for this type of information might prefer to take another course. 

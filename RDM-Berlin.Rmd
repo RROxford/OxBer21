@@ -1,0 +1,9 @@
+---
+title: "Introduction to planning research data management - Berlin"
+shortname: "WS12"
+---
+
+## Evgeny Bobrov
+
+Research data are a valuable resource which needs to be secured, documented, shared, archived etc. - in short, it needs to be managed. Research data management (RDM) has thus emerged in recent years as an overarching term for practices which make research data reusable in the long term for yourself and others. We will look into key concepts of RDM, the data management plan as a tool for its implementation, and reflect on our own data handling practices.
+

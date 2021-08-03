@@ -1,0 +1,9 @@
+---
+title: "Version control with Git"
+shortname: "WS13"
+---
+
+## Malika Ihle, James Smith, Adam Kenny, Thibault Lestang
+
+In this facilitated self-paced tutorial, you will learn the basic concept of version control, and have a brief demonstration of how to use Git from the command line. Then you will practice version control using RStudio as one of many possible GUI interfaces that can interact with Git. You will learn how to use version control for your own workflow (Git within RStudio with backup online on GitHub) and for collaborative coding (fork, clone, pull requests on Github). The tutorials can be found at: https://malikaihle.github.io/Introduction-RStudio-Git-GitHub/  and https://malikaihle.github.io/Collaborative-RStudio-GitHub/. The targeted audience are complete novices regarding version control or Git, but who use R and RStudio at least occasionally.
+

@@ -1,0 +1,8 @@
+---
+title: "How to make your research credible: signposting workshops"
+shortname: "L3"
+---
+
+## Malika Ihle
+
+I will provide an overview of open research practices and will introduce the workshops of this summer school. I will do this by arguing that to make one’s research the most credible and the most likely to replicate, one can engage with preregistration, to increase the reliability of the research, and with a finite set of computing tools, to increase the reproducibility of their workflow.

@@ -1,0 +1,8 @@
+---
+title: "Research data management for FAIR data sharing - Oxford"
+shortname: "WS11"
+---
+
+## Laurence Brown, Philippe Rocca-Serra
+
+With this workshop, we will demonstrate practical and realistic approaches to make data Findable, Accessible, Interoperable and Reusable (FAIR) in a prospective manner. Since early interventions work best, incorporating FAIR practices when devising data management plans (DMP) is a sensible move, aiming to deliver FAIR data from the get go. We will cover some of the basic considerations for collecting and storing data and building this into a DMP. Of course, this is not always possible. Therefore the session will also take the students through a use case detailing how to perform a conversion to FAIR data retrospectively. 

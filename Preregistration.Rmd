@@ -1,0 +1,8 @@
+---
+title: "Preregistration: Why Not, How"
+shortname: "WS10"
+---
+
+## Malika Ihle
+
+In this workshop I will give an overview of what preregistration and registered reports are, and review what detailed information they should contain. I will then argue why to use these approaches and how they can prevent bias in empirical research. We will then collectively discuss benefits and disadvantages of embracing such practices, as well as possible fear and concerns, in a written structured academic debate on Kialo, closing by a verbal group conclusion. I will end by giving an overview of how to preregister in practice by giving a brief tutorial on the Open Science Framework.

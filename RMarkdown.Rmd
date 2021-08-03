@@ -1,0 +1,11 @@
+---
+title: "RMarkdown"
+shortname: "WS17"
+---
+
+## Ulrik Lyngs
+
+R Markdown makes transparent and reproducible data analysis simple and fun. In a nutshell, R Markdown lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in R Markdown.
+
+
+

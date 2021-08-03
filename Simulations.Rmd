@@ -1,0 +1,8 @@
+---
+title: "Simulations of data and data analyses in R"
+shortname: "WS8"
+---
+
+## Malika Ihle, James Smith
+
+In this facilitated self-paced tutorial, you will be guided through the What, Why, and How of simulations of data and data analyses. The material covers power analyses, checking false positive rate, and how simulations can help with preparing a preregistration. We will follow this tutorial: https://malikaihle.github.io/Introduction-Simulations-in-R/. The targeted audience are novices who never simulated data but who do have basic knowledge of the R syntax.

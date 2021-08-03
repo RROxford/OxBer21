@@ -1,0 +1,8 @@
+---
+title: "R for beginners - Oxford"
+shortname: "WS2"
+---
+
+## Adam Kenny, Matt Jaquiery, Olly Robertson
+
+In this workshop, we will use material based on [Software Carpentry lessons](http://swcarpentry.github.io/r-novice-inflammation/)  to introduce you to the basic syntax of the programming language R, using the RStudio interface. The goal is to to get to grips with best practices for using R for data analysis, such as writing modular code. It is primarily aimed at novice programmers. Note that we will focus on teaching the fundamentals of R --- we will not teach statistical analyses using R.

@@ -1,0 +1,9 @@
+---
+title: "Create Commons"
+shortname: "WS7"
+---
+
+## Sarah Barkla
+
+The Creative Commons licences session will examine the relationship between Intellectual Property Rights, specifically copyright, and the licencing of in-copyright works before looking specifically at CC licences and which are relevant for research/papers/datasets.  It will also focus on how CC licences are being used in relation to scholarly sharing and rights retention.
+

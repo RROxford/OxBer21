@@ -1,0 +1,8 @@
+---
+title: "Free code and open data"
+shortname: "L6"
+---
+
+## Rowan Wilson
+
+Who owns the outputs of research, and who should? Do the rights granted by intellectual property law hinder open, reproducible research or facilitate it? This talk will examine these questions,  particularly where they relate to data and code, and ask how things may change as data and code become less distinct conceptually. 
