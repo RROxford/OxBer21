@@ -1,0 +1,8 @@
+---
+title: "Participant info"
+---
+
+
+```{r,echo=FALSE,message=FALSE}
+#### last year's code: https://github.com/sprocketsullivan/BeOx_homepage/blob/master/PP_info.Rmd
+```
