@@ -1,0 +1,75 @@
+OXFORD | BERLIN Summer School in Open Research 2021,...2,...3,...4,...5,...6,...7,...8,...9,...10,...11,...12
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,UK time,Monday 20th Sept,NA,NA,NA,Tuesday 21st Sept,NA,Wednesday 22nd Sept,NA,Thursday 23rd Sept,NA
+intro,"8.45
+9.00","Welcome & Logistics
+Ulf Toelch  & Malika Ihle",NA,NA,NA,blank,NA,blank,NA,blank,NA
+"AM
+lectures","9.00
+9.45","Setting the scene: open initiatives in research and scholarship
+Laura Fortunato",NA,NA,NA,"Reducing waste and increasing value in experimental biomedicine
+Uli Dirnagl",NA,"Simple techniques for writing readable code
+Thibault Lestang",NA,"Using meta-research to improve your science
+Tracey Weissgerber",NA
+NA,break 1,blank,NA,NA,NA,blank,NA,blank,NA,blank,NA
+NA,"10.00
+10.45","Research Ethics & Research Integrity: two duties for researchers
+Tamarinde Haven",NA,NA,NA,"FAIR data for humans and machines
+Susanna Sansone",NA,"Open Access
+Ruth Mallalieu",NA,"How bias leads to entrenched errors
+Dorothy Bishop",NA
+NA,break 2,blank,NA,NA,NA,blank,NA,blank,NA,blank,NA
+NA,"11.00
+11.45","How to make your research credible: signposting workshops
+Malika Ihle",NA,NA,NA,"Free code and open data
+Rowan Wilson",NA,"What to expect from replications
+Ulf Toelch",NA,"Global data accessibility 
+Louise Bezuidenhout",NA
+NA,break 3,blank,NA,NA,NA,blank,NA,blank,NA,blank,NA
+socials,"12.00
+12.30",Group discussion with lecturers and attendees day 1,NA,NA,NA,Group discussion with lecturers and attendees day 2,NA,Group discussion with lecturers and attendees day 3,NA,"What’s next? Facilitated group discussion
+Verena Heise et al.",NA
+lunch,"12.30
+13.30",blank,NA,NA,NA,blank,NA,blank,NA,blank,NA
+"PM
+Workshop 1","13.30
+15.15","Introduction to R - Berlin
+Ulf Toelch","Introduction to R - Oxford
+Adam Kenny
+Matt jaquiery
+Olly Robertson","Introduction to Python - Oxford
+Thibault Lestang
+Laurence Brown","Introduction to Python - Berlin
+Dirk Ostwald","Creative Commons 
+Sarah Barkla","Simulations of data and data analyses in R
+Malika Ihle
+James Smith","Research data management for FAIR data sharing
+OXFORD
+Laurence Brown
+Philippe Rocca-Serra","Introduction to planning research data management
+BERLIN
+Evgeny Bobrov","Systematic review and meta analyses
+Alexandra Bannach- Brown","RMarkdown
+Ulrik Lyngs"
+NA,break 4,blank,NA,NA,NA,blank,NA,blank,NA,blank,NA
+"PM
+Workshop 2","15.30 
+17.15","Reproducible workflows in R - Berlin
+Ulf Toelch","Reproducible workflows in R - Oxford
+Adam Kenny
+Matt jaquiery
+Olly Robertson",blank,blank,"Planning writing and dissemination
+Patricia Logullo
+Jen de Beyer","Preregistration: why not, how
+Malika Ihle","Version control with Git 
+Adam Kenny
+Thibault lestang
+Malika Ihle
+James Smith","Safeguarding research integrity through the reporting of your methods and results
+Michael Schlussel","LaTeX
+Charlie Rahal","Data visualization: How to identify and fix common problems
+Tracey Weissgerber"
+NA,break 5,blank,NA,NA,NA,blank,NA,blank,NA,blank,NA
+keynote,"18.00
+19.00",blank,NA,NA,NA,"Keynote lecture: Research Culture - A Job for Everyone
+Tanita Casci",NA,blank,NA,blank,NA
